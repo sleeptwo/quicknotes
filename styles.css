@@ -95,7 +95,8 @@ h3{font-size:1.2rem;letter-spacing:-.01em;margin-bottom:8px}
 .card:hover{transform:translateY(-4px);box-shadow:var(--shadow)}
 .c-wide{grid-column:span 2}
 .card.dark{background:#0c0c0d;border-color:#0c0c0d;color:#fff}.card.dark p{color:#b8bcc6}
-.ico{font-size:1.6rem;width:52px;height:52px;border-radius:16px;background:#fff;display:grid;place-items:center;margin-bottom:20px;box-shadow:0 6px 16px -8px rgba(12,12,13,.3)}
+.ico{width:48px;height:48px;border-radius:14px;background:#fff;color:var(--indigo);display:grid;place-items:center;margin-bottom:20px;border:1px solid var(--line)}
+.card.dark .ico{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.14);color:#fff}
 
 /* STUDY */
 .split{display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:center}
