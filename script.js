@@ -20,7 +20,7 @@ document.querySelectorAll("[data-download]").forEach(a => {
 });
 
 const nav = document.getElementById("nav");
-addEventListener("scroll", () => nav.classList.toggle("scrolled", scrollY > 8), { passive: true });
+if (nav) addEventListener("scroll", () => nav.classList.toggle("scrolled", scrollY > 8), { passive: true });
 
 const io = new IntersectionObserver(es => es.forEach(e => {
   if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); }
