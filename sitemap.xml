@@ -2,72 +2,362 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://quicknotesapp.io/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/"/>
   </url>
   <url>
     <loc>https://quicknotesapp.io/zh-hant</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-20</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/"/>
   </url>
   <url>
     <loc>https://quicknotesapp.io/lecture-transcription</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/lecture-transcription"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/lecture-transcription"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/lecture-transcription"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/lecture-transcription"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hant/lecture-transcription</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/lecture-transcription"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/lecture-transcription"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/lecture-transcription"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/lecture-transcription"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans/lecture-transcription</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/lecture-transcription"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/lecture-transcription"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/lecture-transcription"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/lecture-transcription"/>
   </url>
   <url>
     <loc>https://quicknotesapp.io/ai-flashcards-from-lectures</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/ai-flashcards-from-lectures"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/ai-flashcards-from-lectures"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/ai-flashcards-from-lectures"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/ai-flashcards-from-lectures"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hant/ai-flashcards-from-lectures</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/ai-flashcards-from-lectures"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/ai-flashcards-from-lectures"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/ai-flashcards-from-lectures"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/ai-flashcards-from-lectures"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans/ai-flashcards-from-lectures</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/ai-flashcards-from-lectures"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/ai-flashcards-from-lectures"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/ai-flashcards-from-lectures"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/ai-flashcards-from-lectures"/>
   </url>
   <url>
     <loc>https://quicknotesapp.io/record-lectures-iphone</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/record-lectures-iphone"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/record-lectures-iphone"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/record-lectures-iphone"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/record-lectures-iphone"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hant/record-lectures-iphone</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/record-lectures-iphone"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/record-lectures-iphone"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/record-lectures-iphone"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/record-lectures-iphone"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans/record-lectures-iphone</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/record-lectures-iphone"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/record-lectures-iphone"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/record-lectures-iphone"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/record-lectures-iphone"/>
   </url>
   <url>
     <loc>https://quicknotesapp.io/cantonese-transcription</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/cantonese-transcription"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/cantonese-transcription"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/cantonese-transcription"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/cantonese-transcription"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hant/cantonese-transcription</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/cantonese-transcription"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/cantonese-transcription"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/cantonese-transcription"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/cantonese-transcription"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans/cantonese-transcription</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/cantonese-transcription"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/cantonese-transcription"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/cantonese-transcription"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/cantonese-transcription"/>
   </url>
   <url>
     <loc>https://quicknotesapp.io/meeting-notes-summary</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/meeting-notes-summary"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/meeting-notes-summary"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/meeting-notes-summary"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/meeting-notes-summary"/>
   </url>
   <url>
-    <loc>https://quicknotesapp.io/blog</loc>
-    <lastmod>2026-09-19</lastmod>
+    <loc>https://quicknotesapp.io/zh-hant/meeting-notes-summary</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/meeting-notes-summary"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/meeting-notes-summary"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/meeting-notes-summary"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/meeting-notes-summary"/>
   </url>
   <url>
-    <loc>https://quicknotesapp.io/blog/how-to-record-a-lecture</loc>
-    <lastmod>2026-09-19</lastmod>
-  </url>
-  <url>
-    <loc>https://quicknotesapp.io/blog/turn-lecture-notes-into-flashcards</loc>
-    <lastmod>2026-09-19</lastmod>
-  </url>
-  <url>
-    <loc>https://quicknotesapp.io/blog/study-from-lecture-recordings</loc>
-    <lastmod>2026-09-19</lastmod>
-  </url>
-  <url>
-    <loc>https://quicknotesapp.io/blog/write-better-summaries-of-long-recordings</loc>
-    <lastmod>2026-09-19</lastmod>
-  </url>
-  <url>
-    <loc>https://quicknotesapp.io/blog/cantonese-vs-mandarin-transcription-tips</loc>
-    <lastmod>2026-09-19</lastmod>
-  </url>
-  <url>
-    <loc>https://quicknotesapp.io/blog/7-day-exam-revision-plan</loc>
-    <lastmod>2026-09-19</lastmod>
+    <loc>https://quicknotesapp.io/zh-hans/meeting-notes-summary</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/meeting-notes-summary"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/meeting-notes-summary"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/meeting-notes-summary"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/meeting-notes-summary"/>
   </url>
   <url>
     <loc>https://quicknotesapp.io/privacy-policy</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/privacy-policy"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hant/privacy-policy</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/privacy-policy"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans/privacy-policy</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/privacy-policy"/>
   </url>
   <url>
     <loc>https://quicknotesapp.io/terms</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/terms"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hant/terms</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/terms"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans/terms</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/terms"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/blog</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hant/blog</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans/blog</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/blog/7-day-exam-revision-plan</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/7-day-exam-revision-plan"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/7-day-exam-revision-plan"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/7-day-exam-revision-plan"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/7-day-exam-revision-plan"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hant/blog/7-day-exam-revision-plan</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/7-day-exam-revision-plan"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/7-day-exam-revision-plan"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/7-day-exam-revision-plan"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/7-day-exam-revision-plan"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans/blog/7-day-exam-revision-plan</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/7-day-exam-revision-plan"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/7-day-exam-revision-plan"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/7-day-exam-revision-plan"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/7-day-exam-revision-plan"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/blog/cantonese-vs-mandarin-transcription-tips</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/cantonese-vs-mandarin-transcription-tips"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/cantonese-vs-mandarin-transcription-tips"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/cantonese-vs-mandarin-transcription-tips"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/cantonese-vs-mandarin-transcription-tips"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hant/blog/cantonese-vs-mandarin-transcription-tips</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/cantonese-vs-mandarin-transcription-tips"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/cantonese-vs-mandarin-transcription-tips"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/cantonese-vs-mandarin-transcription-tips"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/cantonese-vs-mandarin-transcription-tips"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans/blog/cantonese-vs-mandarin-transcription-tips</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/cantonese-vs-mandarin-transcription-tips"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/cantonese-vs-mandarin-transcription-tips"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/cantonese-vs-mandarin-transcription-tips"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/cantonese-vs-mandarin-transcription-tips"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/blog/how-to-record-a-lecture</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/how-to-record-a-lecture"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/how-to-record-a-lecture"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/how-to-record-a-lecture"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/how-to-record-a-lecture"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hant/blog/how-to-record-a-lecture</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/how-to-record-a-lecture"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/how-to-record-a-lecture"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/how-to-record-a-lecture"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/how-to-record-a-lecture"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans/blog/how-to-record-a-lecture</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/how-to-record-a-lecture"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/how-to-record-a-lecture"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/how-to-record-a-lecture"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/how-to-record-a-lecture"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/blog/study-from-lecture-recordings</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/study-from-lecture-recordings"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/study-from-lecture-recordings"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/study-from-lecture-recordings"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/study-from-lecture-recordings"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hant/blog/study-from-lecture-recordings</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/study-from-lecture-recordings"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/study-from-lecture-recordings"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/study-from-lecture-recordings"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/study-from-lecture-recordings"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans/blog/study-from-lecture-recordings</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/study-from-lecture-recordings"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/study-from-lecture-recordings"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/study-from-lecture-recordings"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/study-from-lecture-recordings"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/blog/turn-lecture-notes-into-flashcards</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/turn-lecture-notes-into-flashcards"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/turn-lecture-notes-into-flashcards"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/turn-lecture-notes-into-flashcards"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/turn-lecture-notes-into-flashcards"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hant/blog/turn-lecture-notes-into-flashcards</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/turn-lecture-notes-into-flashcards"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/turn-lecture-notes-into-flashcards"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/turn-lecture-notes-into-flashcards"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/turn-lecture-notes-into-flashcards"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans/blog/turn-lecture-notes-into-flashcards</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/turn-lecture-notes-into-flashcards"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/turn-lecture-notes-into-flashcards"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/turn-lecture-notes-into-flashcards"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/turn-lecture-notes-into-flashcards"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/blog/write-better-summaries-of-long-recordings</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/write-better-summaries-of-long-recordings"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/write-better-summaries-of-long-recordings"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/write-better-summaries-of-long-recordings"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/write-better-summaries-of-long-recordings"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hant/blog/write-better-summaries-of-long-recordings</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/write-better-summaries-of-long-recordings"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/write-better-summaries-of-long-recordings"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/write-better-summaries-of-long-recordings"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/write-better-summaries-of-long-recordings"/>
+  </url>
+  <url>
+    <loc>https://quicknotesapp.io/zh-hans/blog/write-better-summaries-of-long-recordings</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://quicknotesapp.io/blog/write-better-summaries-of-long-recordings"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://quicknotesapp.io/zh-hant/blog/write-better-summaries-of-long-recordings"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://quicknotesapp.io/zh-hans/blog/write-better-summaries-of-long-recordings"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://quicknotesapp.io/blog/write-better-summaries-of-long-recordings"/>
   </url>
 </urlset>
